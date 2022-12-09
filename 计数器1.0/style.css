@@ -1,0 +1,17 @@
+button{
+    font-size: 30px;
+    border: 50px;
+    margin: 20px;
+    background-color: aquamarine;
+    border-radius: 1em
+}
+button::after{
+    background-color: bisque;
+}
+ input{
+    left: 10px;
+ }
+ #to0{
+    font-size: 10px;
+ }
+ 
